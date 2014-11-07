@@ -8,7 +8,7 @@ tern-liferay
 
 ## Demo
 
-You can see demo :
+You can see demo http://codemirror-java.opensagres.eu.cloudbees.net/codemirror-javascript/demo/liferay.html
 
 TODO
 
