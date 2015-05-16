@@ -7,7 +7,7 @@ tern-liferay
 
 ## Demo
 
-You can see demo http://codemirror-java.opensagres.eu.cloudbees.net/codemirror-javascript/demo/liferay.html
+You can play with [online demo](http://demo-angelozerr.rhcloud.com/CodeMirror-Java/liferay.html) or see demo with CodeMirror (inside Web Browser) [demos/liferay.html](https://github.com/angelozerr/tern-liferay/blob/master/demos/liferay.html) :
 
 ## Structure
 
